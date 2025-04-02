@@ -29,14 +29,22 @@ What you will learn includes:
 
 ```
 📦 
-├─ .gitignore
-├─ LICENSE
-├─ README.md
-└─ module1
-   ├─ jupyter-labs-spacex-data-collection-api-answer.ipynb
-   ├─ jupyter-labs-spacex-data-collection-api-v2.ipynb
-   ├─ jupyter-labs-spacex-data-collection-api.html
-   └─ labs-jupyter-spacex-Data wrangling-v2.ipynb
+.gitignore
+LICENSE
+README.md
+├─ module1
+│  ├─ jupyter-labs-spacex-data-collection-api-answer.ipynb
+│  ├─ jupyter-labs-spacex-data-collection-api-v2.ipynb
+│  ├─ jupyter-labs-spacex-data-collection-api.html
+│  ├─ labs-jupyter-spacex-Data wrangling-answer.ipynb
+│  ├─ labs-jupyter-spacex-Data wrangling-v2.ipynb
+│  └─ labs-jupyter-spacex-Data wrangling.html
+└─ module2
+   ├─ edadataviz-answer.ipynb
+   ├─ jupyter-labs-eda-dataviz-v2.ipynb
+   ├─ jupyter-labs-eda-sql-coursera_sqllite-answer.ipynb
+   ├─ jupyter-labs-eda-sql-coursera_sqllite.html
+   └─ jupyter-labs-eda-sql-coursera_sqllite.ipynb
 ```
 
 ## Additional Resources
