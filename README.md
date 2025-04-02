@@ -25,6 +25,21 @@ What you will learn includes:
 4. **Predictive Analysis (Classification)**: In this module, you will use machine learning to determine if the first stage of Falcon 9 will land successfully. You will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
 5. **Present Your Data-Driven Insights**: In this module, you will compile all of your activities into one place and deliver your data-driven insights to determine if the first stage of Falcon 9 will land successfully.
 
+## Repository Directory
+
+```
+📦 
+├─ .gitignore
+├─ LICENSE
+├─ README.md
+└─ module1
+   ├─ jupyter-labs-spacex-data-collection-api-answer.ipynb
+   ├─ jupyter-labs-spacex-data-collection-api-v2.ipynb
+   ├─ jupyter-labs-spacex-data-collection-api.html
+   └─ labs-jupyter-spacex-Data wrangling-v2.ipynb
+```
+
 ## Additional Resources
 
 - [Applied Data Science Capstone | Coursera](https://www.coursera.org/learn/applied-data-science-capstone)
+- [Project Tree Generator](https://woochanleee.github.io/project-tree-generator/)
