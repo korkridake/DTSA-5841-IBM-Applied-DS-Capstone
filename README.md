@@ -29,9 +29,9 @@ What you will learn includes:
 
 ```
 📦 
-.gitignore
-LICENSE
-README.md
+├─ .gitignore
+├─ LICENSE
+├─ README.md
 ├─ module1
 │  ├─ jupyter-labs-spacex-data-collection-api-answer.ipynb
 │  ├─ jupyter-labs-spacex-data-collection-api-v2.ipynb
@@ -39,12 +39,24 @@ README.md
 │  ├─ labs-jupyter-spacex-Data wrangling-answer.ipynb
 │  ├─ labs-jupyter-spacex-Data wrangling-v2.ipynb
 │  └─ labs-jupyter-spacex-Data wrangling.html
-└─ module2
-   ├─ edadataviz-answer.ipynb
-   ├─ jupyter-labs-eda-dataviz-v2.ipynb
-   ├─ jupyter-labs-eda-sql-coursera_sqllite-answer.ipynb
-   ├─ jupyter-labs-eda-sql-coursera_sqllite.html
-   └─ jupyter-labs-eda-sql-coursera_sqllite.ipynb
+├─ module2
+│  ├─ edadataviz-answer.ipynb
+│  ├─ jupyter-labs-eda-dataviz-v2.ipynb
+│  ├─ jupyter-labs-eda-sql-coursera_sqllite-answer.ipynb
+│  ├─ jupyter-labs-eda-sql-coursera_sqllite.html
+│  └─ jupyter-labs-eda-sql-coursera_sqllite.ipynb
+├─ module3
+│  ├─ Build_a_Dashboard_Application_with_Plotly_Dash.pdf
+│  ├─ DV0101EN-Exercise-Generating-Maps-in-Python.ipynb
+│  ├─ Interactive Visual Analytics and Dashboards.mp4
+│  ├─ lab-jupyter-launch-site-location-v2-answer.ipynb
+│  ├─ lab-jupyter-launch-site-location-v2.ipynb
+│  └─ spacex_launch_geo.csv
+├─ module4
+│  └─ SpaceX-Machine-Learning-Prediction-Part-5-v1.ipynb
+└─ module5
+   ├─ DS Capstone by KK.pdf
+   └─ DS Capstone by KK.pptx
 ```
 
 ## Additional Resources
