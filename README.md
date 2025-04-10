@@ -63,3 +63,5 @@ What you will learn includes:
 
 - [Applied Data Science Capstone | Coursera](https://www.coursera.org/learn/applied-data-science-capstone)
 - [Project Tree Generator](https://woochanleee.github.io/project-tree-generator/)
+- [Online FlowChart & Diagrams Editor - Mermaid Live Editor](https://mermaid.live/edit#pako:eNpd0VFPwjAQB_CvcukzGhEYbg8muDGBGCWiibHj4WQ31mRrl1uXqITvblc0JO6p7f2u_7Y7iJ3JSURiz9iU8JJkGmAmNxbZbuHi4hbu5LJuDFt4UB-MrKjd9ubOF2OZUKE0waz7VJVC_oK00zurjD6x2LNEpmR3JTygK5aQoEUo2NSwaXBHbzBbL71OvJ7LNXJLsNo8PcIztY3bjEBpa3xnyliT53PPU5mqyhID6hziilB75kXqxb1cExeG6z4IYqyqFl5bpff_Dnvv9cLd3jD1yV1lWxfsrt7aE1l4spQxE1qCVGms_p1q6clKznW-FQP3sCoXkeWOBqImrrGfikMvM2FLqikTkRvmVKDLy0Smj66tQf1uTP3XyabblyIqsGrdrGtyl54odH_tTEjnxLHptBXRxO8gooP4FNF4Mr0MhqNgFAyHwfXU1b7cYnh5Mx2HYXg1Gt1MgvD6OBDfPvHqt3D-jj_S2axx)
+- [Mermaid | Diagramming and charting tool](https://mermaid.js.org/)
